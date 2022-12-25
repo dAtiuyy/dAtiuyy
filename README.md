@@ -4,6 +4,7 @@
 - I might collaborate with u if I want to and if Im allowed to obv!
 - Le discord tag "Alex - Dumi#9804"
 - OpenAI ChatGPT kinda cool, it can write good poems, check it out, while its free lmao.
+- I enjoy stealing code <3
 
 <!---
 dAtiuyy/dAtiuyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
