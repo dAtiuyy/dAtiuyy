@@ -6,7 +6,7 @@
 - OpenAI ChatGPT kinda cool, it can write good poems, check it out, while its free lmao.
 - I enjoy stealing code <3
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dAtiuyy&count_private=true&show_icons=true&theme=prussian)
+[![dAtiuyy's Github Stats](https://github-readme-stats.vercel.app/api?username=dAtiuyy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dAtiuyy/dAtiuyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
